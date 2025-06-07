@@ -9,7 +9,7 @@ import NotFound from "./pages/NotFound";
 
 function App() {
   return (
-    <Router basename="/jakedevsthings.github.io">
+    <Router basename="/">
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
