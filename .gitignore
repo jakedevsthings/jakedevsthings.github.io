@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 
 DEPLOYMENT_STATUS.md
+*.code-workspace
