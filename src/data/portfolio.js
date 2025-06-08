@@ -290,6 +290,32 @@ export const portfolioData = {
       proprietary: true,
       status: "completed",
     },
+    {
+      title: "Modular RISC Processor Architecture in Verilog",
+      description:
+        "Educational Verilog-based processor project implementing a modular, multi-stage pipelined RISC CPU from the ground up. Developed for Microprocessor Architecture (ECE 4375) course, emphasizing clarity, control flow, and expandability.",
+      technologies: [
+        "Verilog",
+        "RISC Architecture",
+        "CPU Design",
+        "Pipeline Design",
+        "HDL",
+        "Digital Logic",
+      ],
+      highlights: [
+        "Five-stage RISC pipeline with modular implementation (Fetch, Decode, Execute, Memory, Writeback)",
+        "Custom ALU and efficient barrel shifter module design",
+        "Branch prediction and hazard management with data forwarding",
+        "Configurable memory architecture with instruction/data memory simulation",
+        "Complete top-level integration forming a functional CPU system",
+        "Educational focus on RISC architecture and pipelined CPU design principles",
+      ],
+      isPublic: true,
+      githubStatus: "link", // Options: "to-be-created", "link", "private"
+      githubUrl: "https://github.com/jakedevsthings/MPA_RISC",
+      liveUrl: null,
+      status: "completed",
+    },
   ],
 
   additionalInfo: [
