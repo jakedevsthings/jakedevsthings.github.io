@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
               to="/"
               className="text-xl font-bold text-foreground hover:text-primary transition-colors"
             >
-              {portfolioData.personal.orgName}
+              {portfolioData.personal.orgNameShort}
             </Link>
 
             {/* Desktop Navigation */}

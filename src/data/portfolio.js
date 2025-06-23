@@ -2,6 +2,7 @@
 export const portfolioData = {
   personal: {
     name: "Jacob Siau",
+    orgNameShort: "jakedevsthings",
     orgName: "jakedevsthings, LLC",
     title: "Senior Associate Software Engineer",
     location: "DFW",
