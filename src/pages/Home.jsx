@@ -76,8 +76,8 @@ const Home = () => {
                 <ArrowRight size={16} />
               </Link>{" "}
               <a
-                href="./SIAU_JACOB_RESUME_2025_06_01.pdf"
-                download="SIAU_JACOB_RESUME_2025_06_01.pdf"
+                href="./SIAU_JACOB_RESUME_2025_06_22.pdf"
+                download="SIAU_JACOB_RESUME_2025_06_22.pdf"
                 className="btn-secondary inline-flex items-center gap-2"
               >
                 <Download size={16} />

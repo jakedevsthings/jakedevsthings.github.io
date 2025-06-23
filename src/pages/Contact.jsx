@@ -39,10 +39,10 @@ const Contact = () => {
       title: "Resume",
       description:
         "Download my latest resume for detailed experience and skills",
-      action: "./SIAU_JACOB_RESUME_2025_06_01.pdf",
+      action: "./SIAU_JACOB_RESUME_2025_06_22.pdf",
       actionText: "Download PDF",
       external: false,
-      download: "SIAU_JACOB_RESUME_2025_06_01.pdf",
+      download: "SIAU_JACOB_RESUME_2025_06_22.pdf",
     },
   ];
 
