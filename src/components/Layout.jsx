@@ -148,8 +148,8 @@ const Layout = ({ children }) => {
         <div className="section-container">
           <div className="py-8 text-center text-sm text-muted-foreground">
             <p>
-              © {new Date().getFullYear()} {portfolioData.personal.name}. Built
-              with React, Tailwind CSS, and Vite.
+              © {new Date().getFullYear()} {portfolioData.personal.orgName}.
+              Built with React, Tailwind CSS, and Vite.
             </p>
           </div>
         </div>

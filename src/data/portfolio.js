@@ -2,11 +2,10 @@
 export const portfolioData = {
   personal: {
     name: "Jacob Siau",
-    orgName: "jakedevsthings",
+    orgName: "jakedevsthings, LLC",
     title: "Senior Associate Software Engineer",
-    location: "Plano, TX",
-    email: "jacob.e.siau@gmail.com",
-    phone: "(469) 805-5938",
+    location: "DFW",
+    email: "jake@jakedevsthings.com",
     linkedin: "https://linkedin.com/in/jacob-siau",
     github: "https://github.com/jakedevsthings", // Inferred from repo URL
   },
